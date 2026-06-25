@@ -5,6 +5,7 @@ This repository contains the pseudotime trajectory analysis code to reproduce th
 2. "MuSC": Processing and downstream analysis on Muscle Stem cells from C26 and Control integrated workflow.
 3. "MuSC_monocle3": Pseudotrajectory analysis, using Monocle3, on Muscle Stem cells from C26 vs Control samples.
 4.  R scripts to replicate results are available in this repository.
+5.  Major Seurat objects or .cds objects are available by request to the author
 
 # Cite this 
 If you use anything in this repository please cite the following publication:
