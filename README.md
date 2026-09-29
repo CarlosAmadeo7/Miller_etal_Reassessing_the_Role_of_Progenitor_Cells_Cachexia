@@ -9,6 +9,6 @@ This repository contains the pseudotime trajectory analysis code to reproduce th
 
 # Cite this 
 If you use anything in this repository please cite the following publication:
-1. Reassessing the Role of Progenitor Cells in Muscle Wasting in Cancer Cachexia.
+1. Miller SG, Udeme AA, Funk E, et al. Reassessing the Role of Progenitor Cells in Muscle Wasting in Cancer Cachexia. Am J Physiol Cell Physiol doi: 10.1152/ajpcell.00144.2026.
 
-URL: 
+URL: https://journals.physiology.org/doi/abs/10.1152/ajpcell.00144.2026
